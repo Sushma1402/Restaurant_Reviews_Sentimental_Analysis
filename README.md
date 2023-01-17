@@ -15,3 +15,5 @@ We are going to use Bag Of Words Technique to predict positive and negative revi
 In colab, I have explained steps to perform NLP using Bag of Words technique and I have predicted Positive and Negative reviews using Logistic Regression Algorithm and Naive Bayes Algorithm. The accuracy of the model is 88.21752265861026 % and F1 Score is 0.9197080291970803.
 
 After doing sentiment analysis with NLP found that the data is Positive. 78% are Positive Reviews.
+
+It has been observed that reviews rated as 3 are maximum Neutral.If required can be removed.
